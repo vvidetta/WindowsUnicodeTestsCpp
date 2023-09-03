@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30413.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "UnicodeTest", "UnicodeTest\UnicodeTest.vcxproj", "{08B1EE3D-62CD-456E-B419-38389F4D8532}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{08B1EE3D-62CD-456E-B419-38389F4D8532}.Debug|x64.ActiveCfg = Debug|x64
+		{08B1EE3D-62CD-456E-B419-38389F4D8532}.Debug|x64.Build.0 = Debug|x64
+		{08B1EE3D-62CD-456E-B419-38389F4D8532}.Release|x64.ActiveCfg = Release|x64
+		{08B1EE3D-62CD-456E-B419-38389F4D8532}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CA058851-3E0D-4EA6-A888-C6792B7F8B0D}
+	EndGlobalSection
+EndGlobal
